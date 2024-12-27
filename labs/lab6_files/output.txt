@@ -1,0 +1,46 @@
+------------------------------------------------------
+
+this_is_snake : snake_case -> CamelCase : ThisIsSnake
+
+------------------------------------------------------
+
+thisIsCamel : smallCamelCase -> snake_case : this_is_camel
+
+------------------------------------------------------
+
+NotInFormat : eto CamelCase
+
+------------------------------------------------------
+
+foo_snake_baz : snake_case -> CamelCase : FooSnakeBaz
+
+------------------------------------------------------
+
+7LooBibaBibaBoba : eto CamelCase
+
+------------------------------------------------------
+
+egor_pivchuk : snake_case -> CamelCase : EgorPivchuk
+
+------------------------------------------------------
+
+denis_vasin : snake_case -> CamelCase : DenisVasin
+
+------------------------------------------------------
+
+fdfSSSSSss : smallCamelCase -> snake_case : fdf_s_s_s_s_sss
+
+------------------------------------------------------
+
+7Dapapsd_asdpaosd_Ddfsdf_ppp___ : vne formata
+
+------------------------------------------------------
+
+sSSSSS : smallCamelCase -> snake_case : s_s_s_s_s_s
+
+------------------------------------------------------
+
+фывфывфывфыв : eto CamelCase
+
+------------------------------------------------------
+!!! количество строк в файле меньше, чем указано !!!
